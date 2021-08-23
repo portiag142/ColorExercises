@@ -1,0 +1,27 @@
+h1 {
+    color:chartreuse;
+    
+}
+h2 {
+    color: #0000FF;
+}
+h3{
+    color:#16D;
+
+
+}
+h4{
+    color: #999eee50
+}
+
+h5{
+    color: #00d6
+}
+
+h6{
+ 
+     color: rgb(14, 166, 236); }
+
+p {
+    color: rgba(26, 131, 26,.45);
+}
